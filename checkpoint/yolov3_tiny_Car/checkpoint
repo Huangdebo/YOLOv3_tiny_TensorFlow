@@ -1,0 +1,6 @@
+model_checkpoint_path: "model-step_144000_loss_2.974138_lr_3.433207e-06"
+all_model_checkpoint_paths: "model-step_136000_loss_4.582234_lr_4.75916e-06"
+all_model_checkpoint_paths: "model-step_138000_loss_3.534735_lr_4.386041e-06"
+all_model_checkpoint_paths: "model-step_140000_loss_4.178957_lr_4.042176e-06"
+all_model_checkpoint_paths: "model-step_142000_loss_2.621993_lr_3.725269e-06"
+all_model_checkpoint_paths: "model-step_144000_loss_2.974138_lr_3.433207e-06"

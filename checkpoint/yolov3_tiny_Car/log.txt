@@ -1,0 +1,46 @@
+===> batch recall: 0.871, batch precision: 0.864 <===
+===> Epoch: 32, global_step: 142000, recall: 0.553, precision: 0.643, total_loss: 37.199, loss_xy: 1.078, loss_wh: 1.009, loss_conf: 31.234, loss_class: 3.878
+Epoch: 32, global_step: 142050, lr: 0.00000373, total_loss: 4.751, loss_xy: 0.814, loss_wh: 0.612, loss_conf: 3.294, loss_class: 0.031
+Epoch: 32, global_step: 142100, lr: 0.00000373, total_loss: 3.753, loss_xy: 0.600, loss_wh: 0.523, loss_conf: 2.387, loss_class: 0.243
+Epoch: 32, global_step: 142150, lr: 0.00000373, total_loss: 2.970, loss_xy: 0.620, loss_wh: 0.455, loss_conf: 1.796, loss_class: 0.099
+Epoch: 32, global_step: 142200, lr: 0.00000373, total_loss: 3.949, loss_xy: 0.836, loss_wh: 0.477, loss_conf: 2.631, loss_class: 0.004
+Epoch: 32, global_step: 142250, lr: 0.00000373, total_loss: 4.312, loss_xy: 0.855, loss_wh: 0.771, loss_conf: 2.665, loss_class: 0.021
+Epoch: 32, global_step: 142300, lr: 0.00000373, total_loss: 3.754, loss_xy: 0.703, loss_wh: 0.544, loss_conf: 2.499, loss_class: 0.007
+Epoch: 32, global_step: 142350, lr: 0.00000358, total_loss: 3.994, loss_xy: 0.756, loss_wh: 0.533, loss_conf: 2.641, loss_class: 0.064
+Epoch: 32, global_step: 142400, lr: 0.00000358, total_loss: 2.882, loss_xy: 0.567, loss_wh: 0.392, loss_conf: 1.883, loss_class: 0.040
+Epoch: 32, global_step: 142450, lr: 0.00000358, total_loss: 4.038, loss_xy: 0.650, loss_wh: 0.590, loss_conf: 2.733, loss_class: 0.065
+Epoch: 32, global_step: 142500, lr: 0.00000358, total_loss: 3.947, loss_xy: 0.767, loss_wh: 0.618, loss_conf: 2.494, loss_class: 0.068
+===> batch recall: 0.789, batch precision: 0.793 <===
+Epoch: 32, global_step: 142550, lr: 0.00000358, total_loss: 2.653, loss_xy: 0.714, loss_wh: 0.633, loss_conf: 1.298, loss_class: 0.008
+Epoch: 32, global_step: 142600, lr: 0.00000358, total_loss: 3.421, loss_xy: 0.735, loss_wh: 0.547, loss_conf: 2.098, loss_class: 0.041
+Epoch: 32, global_step: 142650, lr: 0.00000358, total_loss: 5.391, loss_xy: 0.845, loss_wh: 0.732, loss_conf: 3.704, loss_class: 0.110
+Epoch: 32, global_step: 142700, lr: 0.00000358, total_loss: 2.978, loss_xy: 0.645, loss_wh: 0.454, loss_conf: 1.868, loss_class: 0.011
+Epoch: 32, global_step: 142750, lr: 0.00000358, total_loss: 5.921, loss_xy: 1.009, loss_wh: 0.837, loss_conf: 3.879, loss_class: 0.195
+Epoch: 32, global_step: 142800, lr: 0.00000358, total_loss: 3.452, loss_xy: 0.587, loss_wh: 0.492, loss_conf: 2.370, loss_class: 0.002
+Epoch: 32, global_step: 142850, lr: 0.00000358, total_loss: 3.199, loss_xy: 0.490, loss_wh: 0.345, loss_conf: 2.341, loss_class: 0.023
+Epoch: 32, global_step: 142900, lr: 0.00000358, total_loss: 5.232, loss_xy: 0.837, loss_wh: 0.691, loss_conf: 3.569, loss_class: 0.135
+Epoch: 32, global_step: 142950, lr: 0.00000358, total_loss: 4.597, loss_xy: 0.833, loss_wh: 0.648, loss_conf: 3.099, loss_class: 0.017
+Epoch: 32, global_step: 143000, lr: 0.00000358, total_loss: 5.087, loss_xy: 0.818, loss_wh: 0.623, loss_conf: 3.624, loss_class: 0.022
+===> batch recall: 0.752, batch precision: 0.756 <===
+Epoch: 32, global_step: 143050, lr: 0.00000358, total_loss: 3.583, loss_xy: 0.679, loss_wh: 0.457, loss_conf: 2.438, loss_class: 0.009
+Epoch: 32, global_step: 143100, lr: 0.00000358, total_loss: 2.846, loss_xy: 0.587, loss_wh: 0.439, loss_conf: 1.814, loss_class: 0.006
+Epoch: 32, global_step: 143150, lr: 0.00000358, total_loss: 4.150, loss_xy: 0.744, loss_wh: 0.681, loss_conf: 2.655, loss_class: 0.070
+Epoch: 33, global_step: 143200, lr: 0.00000358, total_loss: 3.527, loss_xy: 0.616, loss_wh: 0.444, loss_conf: 2.453, loss_class: 0.014
+Epoch: 33, global_step: 143250, lr: 0.00000358, total_loss: 2.432, loss_xy: 0.571, loss_wh: 0.406, loss_conf: 1.454, loss_class: 0.001
+Epoch: 33, global_step: 143300, lr: 0.00000358, total_loss: 5.030, loss_xy: 0.716, loss_wh: 0.769, loss_conf: 3.488, loss_class: 0.056
+Epoch: 33, global_step: 143350, lr: 0.00000343, total_loss: 4.151, loss_xy: 0.885, loss_wh: 0.621, loss_conf: 2.626, loss_class: 0.019
+Epoch: 33, global_step: 143400, lr: 0.00000343, total_loss: 5.016, loss_xy: 0.822, loss_wh: 0.588, loss_conf: 3.554, loss_class: 0.052
+Epoch: 33, global_step: 143450, lr: 0.00000343, total_loss: 4.503, loss_xy: 0.683, loss_wh: 0.507, loss_conf: 3.309, loss_class: 0.003
+Epoch: 33, global_step: 143500, lr: 0.00000343, total_loss: 3.313, loss_xy: 0.680, loss_wh: 0.496, loss_conf: 2.125, loss_class: 0.012
+===> batch recall: 0.832, batch precision: 0.864 <===
+Epoch: 33, global_step: 143550, lr: 0.00000343, total_loss: 3.279, loss_xy: 0.620, loss_wh: 0.449, loss_conf: 2.201, loss_class: 0.008
+Epoch: 33, global_step: 143600, lr: 0.00000343, total_loss: 3.524, loss_xy: 0.560, loss_wh: 0.536, loss_conf: 2.406, loss_class: 0.022
+Epoch: 33, global_step: 143650, lr: 0.00000343, total_loss: 3.361, loss_xy: 0.635, loss_wh: 0.446, loss_conf: 2.277, loss_class: 0.003
+Epoch: 33, global_step: 143700, lr: 0.00000343, total_loss: 2.603, loss_xy: 0.615, loss_wh: 0.449, loss_conf: 1.514, loss_class: 0.025
+Epoch: 33, global_step: 143750, lr: 0.00000343, total_loss: 4.765, loss_xy: 1.000, loss_wh: 0.663, loss_conf: 3.073, loss_class: 0.029
+Epoch: 33, global_step: 143800, lr: 0.00000343, total_loss: 4.013, loss_xy: 0.789, loss_wh: 0.639, loss_conf: 2.550, loss_class: 0.036
+Epoch: 33, global_step: 143850, lr: 0.00000343, total_loss: 3.597, loss_xy: 0.699, loss_wh: 0.464, loss_conf: 2.431, loss_class: 0.002
+Epoch: 33, global_step: 143900, lr: 0.00000343, total_loss: 3.572, loss_xy: 0.887, loss_wh: 0.593, loss_conf: 2.077, loss_class: 0.016
+Epoch: 33, global_step: 143950, lr: 0.00000343, total_loss: 3.375, loss_xy: 0.590, loss_wh: 0.533, loss_conf: 2.230, loss_class: 0.022
+Epoch: 33, global_step: 144000, lr: 0.00000343, total_loss: 2.974, loss_xy: 0.629, loss_wh: 0.550, loss_conf: 1.768, loss_class: 0.028
+===> batch recall: 0.815, batch precision: 0.846 <===
